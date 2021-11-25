@@ -1,0 +1,10 @@
+Package: trytry
+Type: Package
+Title: let us try try
+Version: 0.1.0
+Author: Shiyao Lu
+Maintainer: Shiyao Lu <sjtulsy@sjtu.edu.cn>
+Description: try to say hello to world
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
